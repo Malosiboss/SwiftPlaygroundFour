@@ -2,5 +2,15 @@
 <Timeline
    version = "3.0">
    <TimelineItems>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/noah/Desktop/SwiftPlaygroundFour/SwiftPlaygroundFour.playground#CharacterRangeLen=3&amp;CharacterRangeLoc=135&amp;EndingColumnNumber=7&amp;EndingLineNumber=13&amp;StartingColumnNumber=4&amp;StartingLineNumber=13&amp;Timestamp=635803494.9504679"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/noah/Desktop/SwiftPlaygroundFour/SwiftPlaygroundFour.playground#CharacterRangeLen=10&amp;CharacterRangeLoc=153&amp;EndingColumnNumber=0&amp;EndingLineNumber=15&amp;StartingColumnNumber=5&amp;StartingLineNumber=14&amp;Timestamp=635803494.950575"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
    </TimelineItems>
 </Timeline>
